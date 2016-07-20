@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication30Auth", "WebApplication30Auth\WebApplication30Auth.csproj", "{40D58556-CBE9-45ED-839B-8D2C96CF0E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication30Auth.Tests", "WebApplication30Auth.Tests\WebApplication30Auth.Tests.csproj", "{0899C755-0F79-4439-853A-BD29DBAF7BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D58556-CBE9-45ED-839B-8D2C96CF0E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D58556-CBE9-45ED-839B-8D2C96CF0E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D58556-CBE9-45ED-839B-8D2C96CF0E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D58556-CBE9-45ED-839B-8D2C96CF0E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0899C755-0F79-4439-853A-BD29DBAF7BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0899C755-0F79-4439-853A-BD29DBAF7BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0899C755-0F79-4439-853A-BD29DBAF7BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0899C755-0F79-4439-853A-BD29DBAF7BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
