@@ -50,5 +50,16 @@ namespace WebApplication30Auth.Tests.Controllers
          // Assert
          Assert.IsNotNull(result);
       }
+
+      [TestMethod]
+      public void TestAdd()
+      {
+         testfunction ts = new testfunction();
+
+         var r = ts.add(1, 2);
+
+         Assert.AreEqual(r,3);
+
+      }
    }
 }
